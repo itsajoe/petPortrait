@@ -15,7 +15,7 @@ import Contact from "./components/contact";
 // copyright
 import Footer from "./components/footer";
 // modal
-import Modal from "../node_modules/react-modal";
+import Modal from "react-modal";
 
 // import Gallery from "./components/gallery";
 
