@@ -1,0 +1,25 @@
+.blue {
+    background-color: white;
+    height: 200px;
+}
+#titl {
+    margin-top: 4%;
+    text-align: center;
+    opacity: .7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#journ {
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10%;
+    color: black;
+    opacity: .9;
+}
+#und {
+    justify-content: center;
+    width: 60%;
+    margin-left: 20%;
+    border-bottom: 1px solid rgb(130 205 177);
+}
+
