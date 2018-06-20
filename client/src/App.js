@@ -17,7 +17,7 @@ import Footer from "./components/footer";
 // modal
 import Modal from "react-modal";
 
-// import Gallery from "./components/gallery";
+import Gallery from "./components/gallery";
 
 // import { BrowserRouter as Router, Link, Route } from "react-router-dom";
 
@@ -240,6 +240,7 @@ class App extends Component {
       <Services />
       <Contact open={this.openModal}/>
       <Footer />
+      <Gallery />
       </div>
     );
   }}
