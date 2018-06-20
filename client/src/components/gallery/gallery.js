@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import "./gallery.css";
+// import "./gallery.css";
 import "react-image-gallery/styles/css/image-gallery.css";
 import "../../../node_modules/react-image-gallery/styles/css/image-gallery.css";
 import ImageGallery from 'react-image-gallery';
