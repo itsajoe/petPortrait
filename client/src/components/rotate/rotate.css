@@ -5,7 +5,7 @@
 #titl {
     margin-top: 4%;
     text-align: center;
-    opacity: .7;
+    /* opacity: .7; */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #journ {
@@ -13,13 +13,13 @@
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 10%;
-    color: black;
-    opacity: .9;
+    color: rgb(182, 58, 58);
+    /* opacity: .9; */
 }
 #und {
     justify-content: center;
     width: 60%;
     margin-left: 20%;
-    border-bottom: 1px solid rgb(130 205 177);
+    border-bottom: 1px solid rgb(182, 58, 58);
 }
 

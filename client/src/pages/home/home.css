@@ -1,0 +1,81 @@
+.parallax {
+    background-image: url("../../images/bon.jpg");
+    height: 100%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 800px;
+    margin-top: 5%;
+}
+  
+.empty {
+      height: 500px;
+}
+#close {
+    background-color: white;
+    border: none;
+    outline: none;
+    margin-top: -3%;
+    left: 85%;
+    height: 80px;
+    width: 80px;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    width: 300px;
+    /* margin-bottom: 5%; */
+    /* border: 1px solid rgb(130 205 177); */
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    margin-top: -5%;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.formes {
+    background-color: white;
+    width: 300px;
+    padding: 3%;
+    color:  rgb(182, 58, 58);
+    border: 1px solid rgb(182, 58, 58);
+    margin-bottom: 5%;
+    /* margin-right: 25%; */
+}
+.dropbtn {
+    background-color: white;
+    color: rgb(182, 58, 58);
+    width: 100%;
+    padding: 3%;
+    border: 1px solid rgb(182, 58, 58);
+    border-top: none;
+    text-align: center;
+}
+.dropbtn:hover {
+    color: white;
+    background-color: rgb(182, 58, 58);
+}
+#jo {
+    letter-spacing: 1px;
+    font-size: 18px;
+    font-weight: 600;
+    /* margin-bottom: %; */
+    color: rgb(182, 58, 58);
+    /* opacity: .9; */
+    margin-top: -20%;
+}
+#uno {
+    justify-content: center;
+    width: 100%;
+    border-bottom: 1px solid  rgb(182, 58, 58);
+    margin-bottom: 25%;
+}
+ 

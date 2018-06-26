@@ -6,7 +6,7 @@
 #title {
     margin-top: 8%;
     text-align: center;
-    opacity: .7;
+    /* opacity: .7; */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #journey {
@@ -14,8 +14,8 @@
     font-size: 20px;
     font-weight: 600;
     /* margin-bottom: %; */
-    color: black;
-    opacity: .9;
+    color: rgb(182, 58, 58);
+    /* opacity: .9; */
 }
 /* .jumbotron {
     background-color: blue;
@@ -24,30 +24,30 @@
 } */
 h2 {
     padding: 5% 15% 15% 15%;
-    opacity: .8;
+    /* opacity: .8; */
  }
 
  .under {
      justify-content: center;
      width: 75%;
      margin-left: 12%;
-     border-bottom: 1px solid rgb(130 205 177);
+     border-bottom: 1px solid rgb(182, 58, 58);
  }
 
  #para {
      margin-top: -10%;
      height: 480px;
-     padding-top: 8%;
+     padding-top: 4%;
      font-size: 16px;
      color: black;
      word-wrap: normal;
      text-align: center;
      text-align-last: center;
-     /* border: 3px solid rgb(130 205 177); */
+     border: 3px solid rgb(182, 58, 58);
  }
  
  #the {
      float: left;
      margin: -10% 2% 2% 2%;
-     /* border: 3px solid rgb(130 205 177); */
+     border: 3px solid rgb(182, 58, 58);
  }

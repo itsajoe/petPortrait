@@ -7,43 +7,43 @@
     float: right;
     padding: 25% 5% 10% 10%;
     text-align: center;
-    color: rgb(130 205 177);
-    border-left: 1px solid rgb(130 205 177);
+    color: #81ccb2;
+    border-left: 1px solid #81ccb2;
 }
 #buton {
     height: 40px;
     width: 140px;
-    border: 1px solid rgb(130 205 177);
+    border: 1px solid #81ccb2;
     background-color: white;
     margin-top: 10%;
     -webkit-transition: .5s background-color ease;
     -moz-transition: .5s background-color ease;
     -o-transition: .5s background-color ease;
     transition: .5s background-color ease;
-    color: rgb(130 205 177);
+    color: #81ccb2;
 }
 #buton:hover {
-    background-color: rgb(130 205 177);
+    background-color: #81ccb2;
     color: white;
 }
 #titley {
     margin-top: 5%;
     text-align: center;
-    opacity: .7;
+    /* opacity: .8; */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:  rgb(130 205 177);
+    color:  rgb(182, 58, 58);
 }
 #jour {
     letter-spacing: 1px;
     font-size: 24px;
     font-weight: 600;
     /* margin-bottom: 10%; */
-    color: rgb(130 205 177);
+    color: rgb(182, 58, 58);
 }
 #un {
     justify-content: center;
     width: 100%;
-    border-bottom: 1px solid  rgb(130 205 177);
+    border-bottom: 1px solid  rgb(182, 58, 58);
 }
 #those {
     margin-top: 10%;
@@ -52,18 +52,18 @@
     background-color: white;
     width: 100%;
     padding: 3%;
-    color:  rgb(130 205 177);
-    border: 1px solid rgb(130 205 177);
+    color:  rgb(182, 58, 58);
+    border: 1px solid rgb(182, 58, 58);
 }
 ::placeholder {
-    color:  rgb(130 205 177);
+    color:  rgb(182, 58, 58);
 }
 :-ms-input-placeholder { 
-    color:  rgb(130 205 177);
+    color:  rgb(182, 58, 58);
 }
 
 ::-ms-input-placeholder { 
-    color:  rgb(130 205 177);
+    color:  rgb(182, 58, 58);
 }
 .bobby {
     margin-left: -10%;
@@ -82,7 +82,23 @@
     width: 45px;
 }
 #bub {
-    color: rgb(130 205 177);
+    color: rgb(182, 58, 58);
     margin-bottom: 20%;
     text-align: center;
+}
+#bun {
+    height: 40px;
+    width: 140px;
+    border: 1px solid rgb(182, 58, 58);
+    background-color: white;
+    margin-top: 10%;
+    -webkit-transition: .5s background-color ease;
+    -moz-transition: .5s background-color ease;
+    -o-transition: .5s background-color ease;
+    transition: .5s background-color ease;
+    color: rgb(182, 58, 58);
+}
+#bun:hover {
+    background-color: rgb(182, 58, 58);
+    color: white;
 }

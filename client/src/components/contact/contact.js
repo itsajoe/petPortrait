@@ -56,7 +56,7 @@ export default class Contact extends Component {
                             <div className="row bobby">
                                 <div className="col-sm-5"></div>
                                 <div className="col-sm-2">
-                                    <button id="buton">Send</button>
+                                    <button id="bun">Send</button>
                                 </div>
                             </div>
                         </div>

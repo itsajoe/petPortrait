@@ -6,7 +6,7 @@
 .second {
     width: 50%;
     height: 799px;
-    background-color: rgb(130 205 177);
+    background-color: #81ccb2;
     float: right;
     padding: 15% 5% 10% 10%;
     text-align: center;
@@ -22,7 +22,7 @@ h1 {
     height: 40px;
     width: 140px;
     border: 1px solid white;
-    background-color: rgb(130 205 177);
+    background-color: #81ccb2;
     margin-top: 10%;
     -webkit-transition: .5s background-color ease;
     -moz-transition: .5s background-color ease;
@@ -31,5 +31,5 @@ h1 {
 }
 #but:hover {
     background-color: white;
-    color: rgb(130 205 177);
+    color: #81ccb2;
 }

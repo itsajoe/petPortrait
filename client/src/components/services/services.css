@@ -1,5 +1,5 @@
 .service {
-    background-color: rgb(130 205 177);
+    background-color: #81ccb2;
     height: 600px;
     text-align: center;
 }
@@ -26,15 +26,16 @@ th {
     border: 1px solid white;
     text-align: center;
     width: 20px;
-    background-color: rgb(130 205 177);
+    background-color: #81ccb2;
 }
 td {
-    border: 1px solid rgb(130 205 177);
+    border: 1px solid #81ccb2;
     background-color: rgb(255, 255, 255);
-    color: rgb(130 205 177);
+    color: #81ccb2;
 }
 .last {
     border-bottom: 1px solid white;
+    border-right: 1px solid white;
 }
 .back {
     border-right: 1px solid white;
